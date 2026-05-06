@@ -1,0 +1,99 @@
+Added Component: Designator=J2(16p Pin Header)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Megastar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ZX-PZ2.54-1-16PZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 2"; Value = "C7501270"; VariantName = "[No Variations]"
+Added Component: Designator=J3(16p Pin Header)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Megastar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ZX-PZ2.54-1-16PZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 2"; Value = "C7501270"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LED_INBUILT Pin=IC1-12
+Added Pin To Net: NetName=3V3 Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=5V Pin=J3-15
+Added Pin To Net: NetName=GND Pin=J3-16
+Added Pin To Net: NetName=L1 Pin=IC1-2
+Added Pin To Net: NetName=L1 Pin=J2-3
+Added Net: Name=L1
+Added Pin To Net: NetName=L2 Pin=IC1-3
+Added Pin To Net: NetName=L2 Pin=J2-4
+Added Net: Name=L2
+Added Pin To Net: NetName=L3 Pin=IC1-4
+Added Pin To Net: NetName=L3 Pin=J2-5
+Added Net: Name=L3
+Added Pin To Net: NetName=L4 Pin=IC1-8
+Added Pin To Net: NetName=L4 Pin=J2-6
+Added Net: Name=L4
+Added Pin To Net: NetName=L5 Pin=IC1-9
+Added Pin To Net: NetName=L5 Pin=J2-7
+Added Net: Name=L5
+Added Pin To Net: NetName=L6 Pin=IC1-10
+Added Pin To Net: NetName=L6 Pin=J2-8
+Added Net: Name=L6
+Added Pin To Net: NetName=L7 Pin=IC1-11
+Added Pin To Net: NetName=L7 Pin=J2-9
+Added Net: Name=L7
+Added Pin To Net: NetName=L8 Pin=IC1-13
+Added Pin To Net: NetName=L8 Pin=J2-10
+Added Net: Name=L8
+Added Pin To Net: NetName=L9 Pin=IC1-14
+Added Pin To Net: NetName=L9 Pin=J2-11
+Added Net: Name=L9
+Added Pin To Net: NetName=L10 Pin=IC1-15
+Added Pin To Net: NetName=L10 Pin=J2-12
+Added Net: Name=L10
+Added Pin To Net: NetName=L11 Pin=IC1-16
+Added Pin To Net: NetName=L11 Pin=J2-13
+Added Net: Name=L11
+Added Pin To Net: NetName=L12 Pin=IC1-17
+Added Pin To Net: NetName=L12 Pin=J2-14
+Added Net: Name=L12
+Added Pin To Net: NetName=L13 Pin=IC1-18
+Added Pin To Net: NetName=L13 Pin=J2-15
+Added Net: Name=L13
+Added Pin To Net: NetName=L14 Pin=IC1-22
+Added Pin To Net: NetName=L14 Pin=J2-16
+Added Net: Name=L14
+Added Pin To Net: NetName=R1 Pin=IC1-46
+Added Pin To Net: NetName=R1 Pin=J3-1
+Added Net: Name=R1
+Added Pin To Net: NetName=R2 Pin=IC1-44
+Added Pin To Net: NetName=R2 Pin=J3-2
+Added Net: Name=R2
+Added Pin To Net: NetName=R3 Pin=IC1-43
+Added Pin To Net: NetName=R3 Pin=J3-3
+Added Net: Name=R3
+Added Pin To Net: NetName=R4 Pin=IC1-42
+Added Pin To Net: NetName=R4 Pin=J3-4
+Added Net: Name=R4
+Added Pin To Net: NetName=R5 Pin=IC1-41
+Added Pin To Net: NetName=R5 Pin=J3-5
+Added Net: Name=R5
+Added Pin To Net: NetName=R6 Pin=IC1-39
+Added Pin To Net: NetName=R6 Pin=J3-6
+Added Net: Name=R6
+Added Pin To Net: NetName=R7 Pin=IC1-34
+Added Pin To Net: NetName=R7 Pin=J3-7
+Added Net: Name=R7
+Added Pin To Net: NetName=R8 Pin=IC1-31
+Added Pin To Net: NetName=R8 Pin=J3-8
+Added Net: Name=R8
+Added Pin To Net: NetName=R9 Pin=IC1-30
+Added Pin To Net: NetName=R9 Pin=J3-9
+Added Net: Name=R9
+Added Pin To Net: NetName=R10 Pin=IC1-29
+Added Pin To Net: NetName=R10 Pin=J3-10
+Added Net: Name=R10
+Added Pin To Net: NetName=R11 Pin=IC1-28
+Added Pin To Net: NetName=R11 Pin=J3-11
+Added Net: Name=R11
+Added Pin To Net: NetName=R12 Pin=IC1-27
+Added Pin To Net: NetName=R12 Pin=J3-12
+Added Net: Name=R12
+Added Pin To Net: NetName=R13 Pin=IC1-26
+Added Pin To Net: NetName=R13 Pin=J3-13
+Added Net: Name=R13
+Added Pin To Net: NetName=R14 Pin=IC1-25
+Added Pin To Net: NetName=R14 Pin=J3-14
+Added Net: Name=R14
+Added Member To Class: ClassName=WizBoard Member=Component J2 ZX-PZ2.54-1-16PZZ
+Added Member To Class: ClassName=WizBoard Member=Component J3 ZX-PZ2.54-1-16PZZ

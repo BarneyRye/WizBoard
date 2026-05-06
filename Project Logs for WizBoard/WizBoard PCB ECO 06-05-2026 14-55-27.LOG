@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=NRST Pin=C3-2
+Change Component Comment : Designator=C8 Old Comment=4.7u New Comment=1u
+Change Component Comment : Designator=P1 Old Comment=SM06B-SRSS-TB(LF)(SN) New Comment=6 Pin JST-SH
+Change component parameters: Designator = "C8" ("C8"); Footprint = "CAP_0805"; UniqueID = "\MSDLYQIM" ("\MSDLYQIM")
+Change component parameters (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor Link"; Value = "https://www.lcsc.com/product-detail/C116352.html?spm=wm.fly.bg.0.xh___wm.fly.tp.4.ml&lcsc_vid=RgJaBFdeQAVXBFNWRFFdUVZXR1lbUVIAQgJYXwBWRlExVlNRQFhXX1FUQFNYUzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVheUFZQTk8GEwkK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C116352"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CL21B105KAFNNNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = "25V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NRST Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
