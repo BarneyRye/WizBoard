@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=LED_INBUILT Pin=IC1-12
+Removed Pin From Net: NetName=L8 Pin=IC1-13
+Removed Pin From Net: NetName=L9 Pin=IC1-14
+Removed Pin From Net: NetName=L10 Pin=IC1-15
+Removed Pin From Net: NetName=L11 Pin=IC1-16
+Removed Pin From Net: NetName=L12 Pin=IC1-17
+Removed Pin From Net: NetName=L13 Pin=IC1-18
+Removed Pin From Net: NetName=L14 Pin=IC1-22
+Added Pin To Net: NetName=L8 Pin=IC1-12
+Added Pin To Net: NetName=L9 Pin=IC1-13
+Added Pin To Net: NetName=L10 Pin=IC1-14
+Added Pin To Net: NetName=L11 Pin=IC1-15
+Added Pin To Net: NetName=L12 Pin=IC1-16
+Added Pin To Net: NetName=L13 Pin=IC1-17
+Added Pin To Net: NetName=L14 Pin=IC1-18
+Added Pin To Net: NetName=LED_INBUILT Pin=IC1-22
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
